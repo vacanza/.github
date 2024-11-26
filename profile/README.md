@@ -58,7 +58,7 @@ Adopted by Vacanza after several years of inactivity, Lingva builds upon Linguaâ
 Meet the amazing contributors driving Vacanza forward:
 
 - [Arkadii Yakovets](https://github.com/arkid15r) - WA, USA.
-- [~Jhellico](https://github.com/kjhellico) - Ukraine.
+- [Serhii Murza](https://github.com/kjhellico) - Ukraine.
 - [Panpakorn Siripanich](https://github.com/ppsyrius) - Bangkok, Thailand.
 
 ---
