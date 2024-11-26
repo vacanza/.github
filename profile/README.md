@@ -55,11 +55,11 @@ Adopted by Vacanza after several years of inactivity, Lingva builds upon Linguaâ
 
 ## Core Team Members
 
-Meet the amazing contributors driving Vacanza forward:
+Meet the core team members driving Vacanza forward:
 
 - [Arkadii Yakovets](https://github.com/arkid15r) - WA, USA.
-- [Serhii Murza](https://github.com/kjhellico) - Ukraine.
 - [Panpakorn Siripanich](https://github.com/ppsyrius) - Bangkok, Thailand.
+- [Serhii Murza](https://github.com/kjhellico) - Ukraine.
 
 ---
 
