@@ -14,7 +14,7 @@ Our mission is to create an open, standardized framework that empowers developer
 
 ### [Open World Holidays Framework](https://github.com/vacanza/holidays)
 
-The Open World Holidays is a framework that provides accurate and reliable public holiday data for 150+ entities around the world. It aims to make this information easily accessible to use in scheduling, planning, and offering localized services (e.g., payroll systems, event planning apps, travel booking websites, or e-commerce platforms that want to offer region-specific services).
+The Open World Holidays is a framework that provides accurate and reliable public holiday data for 175+ entities around the world. It aims to make this information easily accessible to use in scheduling, planning, and offering localized services (e.g., payroll systems, event planning apps, travel booking websites, or e-commerce platforms that want to offer region-specific services).
 
 - **Version 0.x** (current version):
   - Performance, efficiency, lazy loading.
